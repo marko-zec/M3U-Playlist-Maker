@@ -12,4 +12,4 @@ Uses extended M3U format.
 
 ![Screenshot](pics/Screenshot.png)
 #
-[Press here to download]()
+[Press here to download](https://github.com/marko-zec/M3U-Playlist-Maker/releases/tag/v1.0)
